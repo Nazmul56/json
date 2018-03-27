@@ -1,23 +1,12 @@
-[{
-    "threadId": "Tom Hardy",
-    "user": "namzul",
-    "group": "DurbinLabs",
-    "unreadCount": 10,
-    "lastActivity": {
-        "type": "message",
-        "content": "data or something"
-    } ,
-    "timeStamp": 3023020
-},
-{
-    "threadId": "Tom Hardy",
-    "user": "namzul",
-    "group": "DurbinLabs",
-    "unreadCount": 10,
-    "lastActivity": {
-        "type": "message",
-        "content": "data or something"
-    } ,
-    "timeStamp": 3023020
-}
+[
+    {
+      "name": "Tom Hardy",
+      "image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
+      "phone": "(541) 754-3010"
+    },
+    {
+      "name": "Johnny Depp",
+      "image": "https://api.androidhive.info/json/images/johnny.jpg",
+      "phone": "(452) 839-1210"
+    }
 ]
