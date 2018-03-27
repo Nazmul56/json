@@ -2,11 +2,11 @@
     {
       "name": "Tom Hardy",
       "image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
-      "phone": "(541) 754-3010"
+      "phone": "Hello"
     },
     {
       "name": "Johnny Depp",
       "image": "https://api.androidhive.info/json/images/johnny.jpg",
-      "phone": "(452) 839-1210"
+      "phone": "Hi"
     }
 ]
