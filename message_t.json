@@ -3,12 +3,12 @@
       "threadId": 2,
       "name": "Tom Hardy",
       "image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
-      "phone": "Hello"
+      "message": "Hello"
     },
     {
       "threadId": 3,
       "name": "Johnny Depp",
       "image": "https://api.androidhive.info/json/images/johnny.jpg",
-      "phone": "Hi Bro"
+      "message": "Hi Bro"
     }
 ]
