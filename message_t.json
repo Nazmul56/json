@@ -4,139 +4,159 @@
       "name": "Tom Hardy-1",
       "image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
       "message": "Hello",
-      "timeStamp": 100001
+      "timeStamp": 100001,
+      "unread": 3
     },
     {
       "threadId": 2,
       "name": "Johnny Depp-2",
       "image": "https://api.androidhive.info/json/images/johnny.jpg",
       "message": "Hi Bro",
-      "timeStamp": 100002
+      "timeStamp": 100002,
+      "unread": 0
     },
     {
       "threadId": 3,
       "name": "Nazmul-3",
       "image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
       "message": "Hello",
-      "timeStamp": 100003
+      "timeStamp": 100003,
+      "unread": 4
     },
     {
       "threadId": 4,
       "name": "Haque-4",
       "image": "https://api.androidhive.info/json/images/johnny.jpg",
       "message": "Hi Bro",
-      "timeStamp": 100004
+      "timeStamp": 100004,
+      "unread": 0
     },
     {
       "threadId": 5,
       "name": "Tom Hardy-5",
       "image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
       "message": "Hello",
-      "timeStamp": 100006
+      "timeStamp": 100006,
+      "unread": 3
     },
     {
       "threadId": 6,
       "name": "Johnny Depp-6",
       "image": "https://api.androidhive.info/json/images/johnny.jpg",
       "message": "Hi Bro",
-      "timeStamp": 100005
+      "timeStamp": 100005,
+      "unread": 0
     },
     {
       "threadId": 7,
       "name": "Nazmul-7",
       "image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
       "message": "Hello",
-      "timeStamp": 100007
+      "timeStamp": 100007,
+      "unread": 3
     },
     {
       "threadId": 8,
       "name": "Haque-8",
       "image": "https://api.androidhive.info/json/images/johnny.jpg",
       "message": "Hi Bro",
-      "timeStamp": 100008
+      "timeStamp": 100008,
+      "unread": 0
     },
     {
       "threadId": 9,
       "name": "Tom Hardy-9",
       "image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
       "message": "Hello",
-      "timeStamp": 100009
+      "timeStamp": 100009,
+      "unread": 3
     },
     {
       "threadId": 10,
       "name": "Johnny Depp-10",
       "image": "https://api.androidhive.info/json/images/johnny.jpg",
       "message": "Hi Bro",
-      "timeStamp": 100010
+      "timeStamp": 100010,
+      "unread": 3
     },
     {
       "threadId": 11,
       "name": "Nazmul-11",
       "image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
       "message": "Hello",
-      "timeStamp": 100011
+      "timeStamp": 100011,
+      "unread": 0
     },
     {
       "threadId": 12,
       "name": "Haque-12",
       "image": "https://api.androidhive.info/json/images/johnny.jpg",
       "message": "Hi Bro",
-      "timeStamp": 100012
+      "timeStamp": 100012,
+      "unread": 3
     },
     {
       "threadId": 13,
       "name": "Tom Hardy-13",
       "image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
       "message": "Hello",
-      "timeStamp": 100013
+      "timeStamp": 100013,
+      "unread": 3
     },
     {
       "threadId": 14,
       "name": "Johnny Depp-14",
       "image": "https://api.androidhive.info/json/images/johnny.jpg",
       "message": "Hi Bro",
-      "timeStamp": 100014
+      "timeStamp": 100014,
+      "unread": 3
     },
     {
       "threadId": 15,
       "name": "Nazmul-15",
       "image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
       "message": "Hello",
-      "timeStamp": 100015
+      "timeStamp": 100015,
+      "unread": 3
     },
     {
       "threadId": 16,
       "name": "Haque-16",
       "image": "https://api.androidhive.info/json/images/johnny.jpg",
       "message": "Hi Bro",
-      "timeStamp": 100016
+      "timeStamp": 100016,
+      "unread": 8
     },
     {
       "threadId": 17,
       "name": "Tom Hardy-17",
       "image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
       "message": "Hello",
-      "timeStamp": 100017
+      "timeStamp": 100017,
+      "unread": 0
     },
     {
       "threadId": 18,
       "name": "Johnny Depp-18",
       "image": "https://api.androidhive.info/json/images/johnny.jpg",
       "message": "Hi Bro",
-      "timeStamp": 100018
+      "timeStamp": 100018,
+      "unread": 3
     },
     {
       "threadId": 19,
       "name": "Nazmul-19",
       "image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
       "message": "Hello",
-      "timeStamp": 100019
+      "timeStamp": 100019,
+      "unread": 3
     },
     {
       "threadId": 20,
       "name": "Haque-20",
       "image": "https://api.androidhive.info/json/images/johnny.jpg",
       "message": "Hi Bro",
-      "timeStamp": 100020
+      "timeStamp": 100020,
+      "unread": 0
     }
 ]
