@@ -1,0 +1,147 @@
+{
+    "code": "200",
+    "cartItems": [
+        {
+            "retailer": {
+                "id": 106,
+                "firstname": "Retailer 2",
+                "lastname": "User"
+            },
+            "products": [
+                {
+                    "id": 539,
+                    "user_id": 389,
+                    "product_id": 260,
+                    "retailer_id": 106,
+                    "variant_id": 892,
+                    "qty": 1,
+                    "created_at": "2022-05-27 10:22:29",
+                    "updated_at": "2022-05-27 10:22:29",
+                    "affiliator_id": null,
+                    "product": {
+                        "id": 260,
+                        "user_id": 106,
+                        "product_name": "Buds Air TWS Earphone True Wireless Bluetooth Earphones headset Auto Connection Dual Mic Touch Control Wireless charging Headset",
+                        "sell_price": 350,
+                        "regular_price": 399,
+                        "product_images": [
+                            {
+                                "id": 456,
+                                "product_id": 260,
+                                "image": "https://cdn.shopify.com/s/files/1/0605/5293/7662/products/1509f839e031d37bd88c6bb5de0c7a29.jpg?v=1643194850",
+                                "shopify_image_url": "https://cdn.shopify.com/s/files/1/0605/5293/7662/products/1509f839e031d37bd88c6bb5de0c7a29.jpg?v=1643194850"
+                            }
+                        ],
+                        "category": null,
+                        "brand": null,
+                        "user": {
+                            "id": 106,
+                            "firstname": "Retailer 2",
+                            "lastname": "User"
+                        }
+                    },
+                    "variant_info": {
+                        "id": 892,
+                        "product_id": 260,
+                        "created_at": "2022-01-26 11:05:42",
+                        "updated_at": "2022-01-26 11:05:42",
+                        "regular_price": 399,
+                        "sell_price": 350,
+                        "stock_quantity": 7,
+                        "upc": "",
+                        "product_images": [],
+                        "combo": [
+                            {
+                                "id": 1344,
+                                "variant_id": 892,
+                                "attribute_value_id": 62,
+                                "created_at": "2022-01-26 11:05:42",
+                                "updated_at": "2022-01-26 11:05:42",
+                                "value_obj": {
+                                    "id": 62,
+                                    "attribute_id": 3,
+                                    "value": "423",
+                                    "created_at": "2022-01-26 11:05:42",
+                                    "updated_at": "2022-01-26 11:05:42",
+                                    "attribute": {
+                                        "id": 3,
+                                        "created_at": "2021-09-23 11:59:36",
+                                        "updated_at": "2021-09-23 11:59:36",
+                                        "name": "Size"
+                                    }
+                                }
+                            },
+                            {
+                                "id": 1345,
+                                "variant_id": 892,
+                                "attribute_value_id": 12,
+                                "created_at": "2022-01-26 11:05:42",
+                                "updated_at": "2022-01-26 11:05:42",
+                                "value_obj": {
+                                    "id": 12,
+                                    "attribute_id": 2,
+                                    "value": "White",
+                                    "created_at": "2021-12-23 10:05:25",
+                                    "updated_at": "2021-12-23 10:05:25",
+                                    "attribute": {
+                                        "id": 2,
+                                        "created_at": "2021-09-23 11:58:32",
+                                        "updated_at": "2021-09-23 11:58:32",
+                                        "name": "Color"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 540,
+                    "user_id": 389,
+                    "product_id": 7,
+                    "retailer_id": 106,
+                    "variant_id": null,
+                    "qty": 1,
+                    "created_at": "2022-05-27 10:22:36",
+                    "updated_at": "2022-05-27 10:22:36",
+                    "affiliator_id": null,
+                    "product": {
+                        "id": 7,
+                        "user_id": 106,
+                        "product_name": "Double Dual Mini Wireless",
+                        "sell_price": 508,
+                        "regular_price": 536,
+                        "product_images": [
+                            {
+                                "id": 8,
+                                "product_id": 7,
+                                "image": "https://prolific.casabeaumonde.com/storage/product-images/j7gkaYOuIxaFBqgPM6gLogDyjJjtyx1tc7fwlirE.jpg",
+                                "shopify_image_url": null
+                            }
+                        ],
+                        "category": null,
+                        "brand": null,
+                        "user": {
+                            "id": 106,
+                            "firstname": "Retailer 2",
+                            "lastname": "User"
+                        }
+                    },
+                    "variant_info": null
+                }
+            ],
+            "shipping_method": {
+                "id": 7,
+                "name": "Default",
+                "retailer_id": 106,
+                "shipping_cost": 0,
+                "delivery_days": "5-6 Days",
+                "is_default": 1,
+                "created_at": "2021-06-03 12:05:55",
+                "updated_at": "2021-06-03 12:05:55",
+                "deleted_at": null
+            },
+            "subtotal": 508,
+            "total": 858
+        }
+    ]
+}
