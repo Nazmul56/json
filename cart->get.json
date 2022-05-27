@@ -1,0 +1,277 @@
+{
+    "code": "200",
+    "cartItems": [
+        {
+            "retailer": {
+                "id": 330,
+                "firstname": "ApmErry",
+                "lastname": "24 Retail"
+            },
+            "products": [
+                {
+                    "id": 536,
+                    "user_id": 390,
+                    "product_id": 281,
+                    "retailer_id": 330,
+                    "variant_id": null,
+                    "qty": 1,
+                    "created_at": "2022-05-27 09:59:25",
+                    "updated_at": "2022-05-27 09:59:25",
+                    "affiliator_id": null,
+                    "product": {
+                        "id": 281,
+                        "user_id": 330,
+                        "product_name": "Wrist Watch",
+                        "sell_price": 5500,
+                        "regular_price": 6000,
+                        "product_images": [
+                            {
+                                "id": 498,
+                                "product_id": 281,
+                                "image": "https://cdn.shopify.com/s/files/1/0633/5430/6792/products/bd.webp?v=1646726186",
+                                "shopify_image_url": "https://cdn.shopify.com/s/files/1/0633/5430/6792/products/bd.webp?v=1646726186"
+                            },
+                            {
+                                "id": 499,
+                                "product_id": 281,
+                                "image": "https://cdn.shopify.com/s/files/1/0633/5430/6792/products/qrr.jpg?v=1646726187",
+                                "shopify_image_url": "https://cdn.shopify.com/s/files/1/0633/5430/6792/products/qrr.jpg?v=1646726187"
+                            },
+                            {
+                                "id": 500,
+                                "product_id": 281,
+                                "image": "https://cdn.shopify.com/s/files/1/0633/5430/6792/products/qrrr.jpg?v=1646726187",
+                                "shopify_image_url": "https://cdn.shopify.com/s/files/1/0633/5430/6792/products/qrrr.jpg?v=1646726187"
+                            },
+                            {
+                                "id": 501,
+                                "product_id": 281,
+                                "image": "https://cdn.shopify.com/s/files/1/0633/5430/6792/products/rtg.jpg?v=1646726187",
+                                "shopify_image_url": "https://cdn.shopify.com/s/files/1/0633/5430/6792/products/rtg.jpg?v=1646726187"
+                            },
+                            {
+                                "id": 502,
+                                "product_id": 281,
+                                "image": "https://cdn.shopify.com/s/files/1/0633/5430/6792/products/womn.jpg?v=1646726187",
+                                "shopify_image_url": "https://cdn.shopify.com/s/files/1/0633/5430/6792/products/womn.jpg?v=1646726187"
+                            }
+                        ],
+                        "category": null,
+                        "brand": null,
+                        "user": {
+                            "id": 330,
+                            "firstname": "ApmErry",
+                            "lastname": "24 Retail"
+                        }
+                    },
+                    "variant_info": null
+                }
+            ],
+            "shipping_method": {
+                "id": 47,
+                "name": "Default",
+                "retailer_id": 330,
+                "shipping_cost": 0,
+                "delivery_days": "5-6 Days",
+                "is_default": 1,
+                "created_at": "2022-03-09 08:59:09",
+                "updated_at": "2022-03-09 08:59:09",
+                "deleted_at": null
+            },
+            "subtotal": 5500,
+            "total": 5500
+        },
+        {
+            "retailer": {
+                "id": 379,
+                "firstname": "Enta",
+                "lastname": "003 Retailer"
+            },
+            "products": [
+                {
+                    "id": 537,
+                    "user_id": 390,
+                    "product_id": 457,
+                    "retailer_id": 379,
+                    "variant_id": 1402,
+                    "qty": 1,
+                    "created_at": "2022-05-27 09:59:48",
+                    "updated_at": "2022-05-27 09:59:48",
+                    "affiliator_id": null,
+                    "product": {
+                        "id": 457,
+                        "user_id": 379,
+                        "product_name": "Warner GrandPro Waterproof Chukka Boot",
+                        "sell_price": 12475,
+                        "regular_price": 12700,
+                        "product_images": [
+                            {
+                                "id": 794,
+                                "product_id": 457,
+                                "image": "https://cdn.shopify.com/s/files/1/0583/5102/6315/products/8a969682-a43a-4690-ac98-fec373356e42.webp?v=1650942657",
+                                "shopify_image_url": "https://cdn.shopify.com/s/files/1/0583/5102/6315/products/8a969682-a43a-4690-ac98-fec373356e42.webp?v=1650942657"
+                            }
+                        ],
+                        "category": null,
+                        "brand": null,
+                        "user": {
+                            "id": 379,
+                            "firstname": "Enta",
+                            "lastname": "003 Retailer"
+                        }
+                    },
+                    "variant_info": {
+                        "id": 1402,
+                        "product_id": 457,
+                        "created_at": "2022-04-29 06:23:59",
+                        "updated_at": "2022-04-29 06:23:59",
+                        "regular_price": 12700,
+                        "sell_price": 12475,
+                        "stock_quantity": 2,
+                        "upc": "SQ_LQ-3",
+                        "product_images": [],
+                        "combo": [
+                            {
+                                "id": 2168,
+                                "variant_id": 1402,
+                                "attribute_value_id": 183,
+                                "created_at": "2022-04-29 06:23:59",
+                                "updated_at": "2022-04-29 06:23:59",
+                                "value_obj": {
+                                    "id": 183,
+                                    "attribute_id": 3,
+                                    "value": "9.5",
+                                    "created_at": "2022-04-29 06:23:59",
+                                    "updated_at": "2022-04-29 06:23:59",
+                                    "attribute": {
+                                        "id": 3,
+                                        "created_at": "2021-09-23 11:59:36",
+                                        "updated_at": "2021-09-23 11:59:36",
+                                        "name": "Size"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 538,
+                    "user_id": 390,
+                    "product_id": 452,
+                    "retailer_id": 379,
+                    "variant_id": 1379,
+                    "qty": 1,
+                    "created_at": "2022-05-27 10:00:02",
+                    "updated_at": "2022-05-27 10:00:02",
+                    "affiliator_id": null,
+                    "product": {
+                        "id": 452,
+                        "user_id": 379,
+                        "product_name": "Trim Fit Stretch Cotton Flannel Button-Up Utility Shirt",
+                        "sell_price": 5150,
+                        "regular_price": 5500,
+                        "product_images": [
+                            {
+                                "id": 784,
+                                "product_id": 452,
+                                "image": "https://cdn.shopify.com/s/files/1/0583/5102/6315/products/DSC08250.jpg?v=1650863237",
+                                "shopify_image_url": "https://cdn.shopify.com/s/files/1/0583/5102/6315/products/DSC08250.jpg?v=1650863237"
+                            },
+                            {
+                                "id": 785,
+                                "product_id": 452,
+                                "image": "https://cdn.shopify.com/s/files/1/0583/5102/6315/products/types-of-shirts-for-men-bewakoof-blog-3-1610963788.jpg?v=1650863237",
+                                "shopify_image_url": "https://cdn.shopify.com/s/files/1/0583/5102/6315/products/types-of-shirts-for-men-bewakoof-blog-3-1610963788.jpg?v=1650863237"
+                            },
+                            {
+                                "id": 786,
+                                "product_id": 452,
+                                "image": "https://cdn.shopify.com/s/files/1/0583/5102/6315/products/m-sm-flannel-shirt-black-a-outfit-815768.jpg?v=1650863237",
+                                "shopify_image_url": "https://cdn.shopify.com/s/files/1/0583/5102/6315/products/m-sm-flannel-shirt-black-a-outfit-815768.jpg?v=1650863237"
+                            },
+                            {
+                                "id": 787,
+                                "product_id": 452,
+                                "image": "https://cdn.shopify.com/s/files/1/0583/5102/6315/products/53947_INNA.webp?v=1650863237",
+                                "shopify_image_url": "https://cdn.shopify.com/s/files/1/0583/5102/6315/products/53947_INNA.webp?v=1650863237"
+                            }
+                        ],
+                        "category": null,
+                        "brand": null,
+                        "user": {
+                            "id": 379,
+                            "firstname": "Enta",
+                            "lastname": "003 Retailer"
+                        }
+                    },
+                    "variant_info": {
+                        "id": 1379,
+                        "product_id": 452,
+                        "created_at": "2022-04-29 06:23:58",
+                        "updated_at": "2022-04-29 06:23:58",
+                        "regular_price": 5500,
+                        "sell_price": 5150,
+                        "stock_quantity": 2,
+                        "upc": "SQL_5",
+                        "product_images": [],
+                        "combo": [
+                            {
+                                "id": 2133,
+                                "variant_id": 1379,
+                                "attribute_value_id": 6,
+                                "created_at": "2022-04-29 06:23:58",
+                                "updated_at": "2022-04-29 06:23:58",
+                                "value_obj": {
+                                    "id": 6,
+                                    "attribute_id": 3,
+                                    "value": "L",
+                                    "created_at": "2021-09-23 11:59:36",
+                                    "updated_at": "2021-09-23 11:59:36",
+                                    "attribute": {
+                                        "id": 3,
+                                        "created_at": "2021-09-23 11:59:36",
+                                        "updated_at": "2021-09-23 11:59:36",
+                                        "name": "Size"
+                                    }
+                                }
+                            },
+                            {
+                                "id": 2134,
+                                "variant_id": 1379,
+                                "attribute_value_id": 43,
+                                "created_at": "2022-04-29 06:23:58",
+                                "updated_at": "2022-04-29 06:23:58",
+                                "value_obj": {
+                                    "id": 43,
+                                    "attribute_id": 6,
+                                    "value": "Classic",
+                                    "created_at": "2021-12-30 07:14:53",
+                                    "updated_at": "2021-12-30 07:14:53",
+                                    "attribute": {
+                                        "id": 6,
+                                        "created_at": "2021-12-30 07:14:53",
+                                        "updated_at": "2021-12-30 07:14:53",
+                                        "name": "Style"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            ],
+            "shipping_method": {
+                "id": 69,
+                "name": "Default",
+                "retailer_id": 379,
+                "shipping_cost": 0,
+                "delivery_days": "5-6 Days",
+                "is_default": 1,
+                "created_at": "2022-04-29 05:10:28",
+                "updated_at": "2022-04-29 05:10:28",
+                "deleted_at": null
+            },
+            "subtotal": 5150,
+            "total": 17625
+        }
+    ]
+}
