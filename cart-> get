@@ -1,0 +1,313 @@
+{
+  "code": "200",
+  "cartItems": [
+    {
+      "retailer": {
+        "id": 106,
+        "firstname": "Retailer 2",
+        "lastname": "User"
+      },
+      "products": [
+        {
+          "id": 539,
+          "user_id": 389,
+          "product_id": 260,
+          "retailer_id": 106,
+          "variant_id": 892,
+          "qty": 2,
+          "created_at": "2022-05-27 10:22:29",
+          "updated_at": "2022-05-30 07:07:29",
+          "affiliator_id": null,
+          "product": {
+            "id": 260,
+            "user_id": 106,
+            "product_name": "Buds Air TWS Earphone True Wireless Bluetooth Earphones headset Auto Connection Dual Mic Touch Control Wireless charging Headset",
+            "sell_price": 350,
+            "regular_price": 399,
+            "product_images": [
+              {
+                "id": 456,
+                "product_id": 260,
+                "image": "https://cdn.shopify.com/s/files/1/0605/5293/7662/products/1509f839e031d37bd88c6bb5de0c7a29.jpg?v=1643194850",
+                "shopify_image_url": "https://cdn.shopify.com/s/files/1/0605/5293/7662/products/1509f839e031d37bd88c6bb5de0c7a29.jpg?v=1643194850"
+              }
+            ],
+            "category": null,
+            "brand": null,
+            "user": {
+              "id": 106,
+              "firstname": "Retailer 2",
+              "lastname": "User"
+            }
+          },
+          "variant_info": {
+            "id": 892,
+            "product_id": 260,
+            "created_at": "2022-01-26 11:05:42",
+            "updated_at": "2022-01-26 11:05:42",
+            "regular_price": 399,
+            "sell_price": 350,
+            "stock_quantity": 7,
+            "upc": "",
+            "product_images": [],
+            "combo": [
+              {
+                "id": 1344,
+                "variant_id": 892,
+                "attribute_value_id": 62,
+                "created_at": "2022-01-26 11:05:42",
+                "updated_at": "2022-01-26 11:05:42",
+                "value_obj": {
+                  "id": 62,
+                  "attribute_id": 3,
+                  "value": "423",
+                  "created_at": "2022-01-26 11:05:42",
+                  "updated_at": "2022-01-26 11:05:42",
+                  "attribute": {
+                    "id": 3,
+                    "created_at": "2021-09-23 11:59:36",
+                    "updated_at": "2021-09-23 11:59:36",
+                    "name": "Size"
+                  }
+                }
+              },
+              {
+                "id": 1345,
+                "variant_id": 892,
+                "attribute_value_id": 12,
+                "created_at": "2022-01-26 11:05:42",
+                "updated_at": "2022-01-26 11:05:42",
+                "value_obj": {
+                  "id": 12,
+                  "attribute_id": 2,
+                  "value": "White",
+                  "created_at": "2021-12-23 10:05:25",
+                  "updated_at": "2021-12-23 10:05:25",
+                  "attribute": {
+                    "id": 2,
+                    "created_at": "2021-09-23 11:58:32",
+                    "updated_at": "2021-09-23 11:58:32",
+                    "name": "Color"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 540,
+          "user_id": 389,
+          "product_id": 7,
+          "retailer_id": 106,
+          "variant_id": null,
+          "qty": 1,
+          "created_at": "2022-05-27 10:22:36",
+          "updated_at": "2022-05-27 10:22:36",
+          "affiliator_id": null,
+          "product": {
+            "id": 7,
+            "user_id": 106,
+            "product_name": "Double Dual Mini Wireless",
+            "sell_price": 508,
+            "regular_price": 536,
+            "product_images": [
+              {
+                "id": 8,
+                "product_id": 7,
+                "image": "https://prolific.casabeaumonde.com/storage/product-images/j7gkaYOuIxaFBqgPM6gLogDyjJjtyx1tc7fwlirE.jpg",
+                "shopify_image_url": null
+              }
+            ],
+            "category": null,
+            "brand": null,
+            "user": {
+              "id": 106,
+              "firstname": "Retailer 2",
+              "lastname": "User"
+            }
+          },
+          "variant_info": null
+        }
+      ],
+      "shipping_method": {
+        "id": 7,
+        "name": "Default",
+        "retailer_id": 106,
+        "shipping_cost": 0,
+        "delivery_days": "5-6 Days",
+        "is_default": 1,
+        "created_at": "2021-06-03 12:05:55",
+        "updated_at": "2021-06-03 12:05:55",
+        "deleted_at": null
+      },
+      "subtotal": 508,
+      "total": 1208
+    },
+    {
+      "retailer": {
+        "id": 379,
+        "firstname": "Enta",
+        "lastname": "003 Retailer"
+      },
+      "products": [
+        {
+          "id": 544,
+          "user_id": 389,
+          "product_id": 458,
+          "retailer_id": 379,
+          "variant_id": 1407,
+          "qty": 1,
+          "created_at": "2022-05-30 06:56:54",
+          "updated_at": "2022-05-30 06:56:54",
+          "affiliator_id": null,
+          "product": {
+            "id": 458,
+            "user_id": 379,
+            "product_name": "Watele Water Resistant Plain Toe Derby",
+            "sell_price": 14015,
+            "regular_price": 15000,
+            "product_images": [
+              {
+                "id": 795,
+                "product_id": 458,
+                "image": "https://cdn.shopify.com/s/files/1/0583/5102/6315/products/89315ffb-a66f-4d4c-a00d-4ff26875db38.webp?v=1650946697",
+                "shopify_image_url": "https://cdn.shopify.com/s/files/1/0583/5102/6315/products/89315ffb-a66f-4d4c-a00d-4ff26875db38.webp?v=1650946697"
+              },
+              {
+                "id": 796,
+                "product_id": 458,
+                "image": "https://cdn.shopify.com/s/files/1/0583/5102/6315/products/a232112f-639b-4670-84e7-813a3b34aa28.webp?v=1650946697",
+                "shopify_image_url": "https://cdn.shopify.com/s/files/1/0583/5102/6315/products/a232112f-639b-4670-84e7-813a3b34aa28.webp?v=1650946697"
+              },
+              {
+                "id": 797,
+                "product_id": 458,
+                "image": "https://cdn.shopify.com/s/files/1/0583/5102/6315/products/c8663dd0-d770-462d-a30f-454439f26406.webp?v=1650946697",
+                "shopify_image_url": "https://cdn.shopify.com/s/files/1/0583/5102/6315/products/c8663dd0-d770-462d-a30f-454439f26406.webp?v=1650946697"
+              }
+            ],
+            "category": null,
+            "brand": null,
+            "user": {
+              "id": 379,
+              "firstname": "Enta",
+              "lastname": "003 Retailer"
+            }
+          },
+          "variant_info": {
+            "id": 1407,
+            "product_id": 458,
+            "created_at": "2022-04-29 06:23:59",
+            "updated_at": "2022-04-29 06:23:59",
+            "regular_price": 15000,
+            "sell_price": 14015,
+            "stock_quantity": 2,
+            "upc": "SQ_ER-2",
+            "product_images": [],
+            "combo": [
+              {
+                "id": 2173,
+                "variant_id": 1407,
+                "attribute_value_id": 124,
+                "created_at": "2022-04-29 06:23:59",
+                "updated_at": "2022-04-29 06:23:59",
+                "value_obj": {
+                  "id": 124,
+                  "attribute_id": 3,
+                  "value": "9",
+                  "created_at": "2022-04-29 05:17:35",
+                  "updated_at": "2022-04-29 05:17:35",
+                  "attribute": {
+                    "id": 3,
+                    "created_at": "2021-09-23 11:59:36",
+                    "updated_at": "2021-09-23 11:59:36",
+                    "name": "Size"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 545,
+          "user_id": 389,
+          "product_id": 457,
+          "retailer_id": 379,
+          "variant_id": 1402,
+          "qty": 1,
+          "created_at": "2022-05-30 06:57:06",
+          "updated_at": "2022-05-30 06:57:06",
+          "affiliator_id": null,
+          "product": {
+            "id": 457,
+            "user_id": 379,
+            "product_name": "Warner GrandPro Waterproof Chukka Boot",
+            "sell_price": 12475,
+            "regular_price": 12700,
+            "product_images": [
+              {
+                "id": 794,
+                "product_id": 457,
+                "image": "https://cdn.shopify.com/s/files/1/0583/5102/6315/products/8a969682-a43a-4690-ac98-fec373356e42.webp?v=1650942657",
+                "shopify_image_url": "https://cdn.shopify.com/s/files/1/0583/5102/6315/products/8a969682-a43a-4690-ac98-fec373356e42.webp?v=1650942657"
+              }
+            ],
+            "category": null,
+            "brand": null,
+            "user": {
+              "id": 379,
+              "firstname": "Enta",
+              "lastname": "003 Retailer"
+            }
+          },
+          "variant_info": {
+            "id": 1402,
+            "product_id": 457,
+            "created_at": "2022-04-29 06:23:59",
+            "updated_at": "2022-04-29 06:23:59",
+            "regular_price": 12700,
+            "sell_price": 12475,
+            "stock_quantity": 2,
+            "upc": "SQ_LQ-3",
+            "product_images": [],
+            "combo": [
+              {
+                "id": 2168,
+                "variant_id": 1402,
+                "attribute_value_id": 183,
+                "created_at": "2022-04-29 06:23:59",
+                "updated_at": "2022-04-29 06:23:59",
+                "value_obj": {
+                  "id": 183,
+                  "attribute_id": 3,
+                  "value": "9.5",
+                  "created_at": "2022-04-29 06:23:59",
+                  "updated_at": "2022-04-29 06:23:59",
+                  "attribute": {
+                    "id": 3,
+                    "created_at": "2021-09-23 11:59:36",
+                    "updated_at": "2021-09-23 11:59:36",
+                    "name": "Size"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "shipping_method": {
+        "id": 69,
+        "name": "Default",
+        "retailer_id": 379,
+        "shipping_cost": 0,
+        "delivery_days": "5-6 Days",
+        "is_default": 1,
+        "created_at": "2022-04-29 05:10:28",
+        "updated_at": "2022-04-29 05:10:28",
+        "deleted_at": null
+      },
+      "subtotal": 12475,
+      "total": 26490
+    }
+  ]
+}
