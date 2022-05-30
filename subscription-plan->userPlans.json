@@ -1,0 +1,1189 @@
+{
+    "code": "200",
+    "data": {
+        "customer_plans": [
+            {
+                "id": 1,
+                "name": "Level-1",
+                "description": "Level-1 plan",
+                "monthly_price": 0,
+                "yearly_price": 0,
+                "yearly_saving_percent": 0,
+                "benefits": null,
+                "trial_days": "0",
+                "interval": "month",
+                "interval_count": "1",
+                "slug": "level-1",
+                "match_profile_with_users": 0,
+                "customer_ratings": 0,
+                "data_analytics": null,
+                "chat_support": 0,
+                "phone_support": 0,
+                "designated_account_manager": 0,
+                "number_of_closets": null,
+                "stylist_collaboration": 0,
+                "allowed_storage_items": 500,
+                "private_closets": 0,
+                "paired_with_stylists": 0,
+                "styling_packages": 0,
+                "invitations": 0,
+                "status": "active",
+                "created_at": "2020-06-22 11:04:00",
+                "updated_at": "2020-06-22 11:04:00",
+                "annual_charge": 0,
+                "plan_features": [
+                    {
+                        "id": 77,
+                        "featureable_id": 1,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "A fun, new connected way to do all your favorite tasks in the fashion world",
+                        "status": "active",
+                        "created_at": "2020-11-02 09:06:46",
+                        "updated_at": "2020-11-02 09:06:46"
+                    },
+                    {
+                        "id": 78,
+                        "featureable_id": 1,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Create a closet inventory",
+                        "status": "active",
+                        "created_at": "2020-11-02 09:06:54",
+                        "updated_at": "2020-11-02 09:06:54"
+                    },
+                    {
+                        "id": 79,
+                        "featureable_id": 1,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Share your closets with other users",
+                        "status": "active",
+                        "created_at": "2020-11-02 09:07:03",
+                        "updated_at": "2020-11-02 09:07:03"
+                    },
+                    {
+                        "id": 80,
+                        "featureable_id": 1,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Show events throughout the country",
+                        "status": "active",
+                        "created_at": "2020-11-02 09:15:57",
+                        "updated_at": "2020-11-02 09:15:57"
+                    },
+                    {
+                        "id": 81,
+                        "featureable_id": 1,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Able to shop retailers, boutiques, and favorite influencers simultaneously",
+                        "status": "active",
+                        "created_at": "2020-11-02 09:16:03",
+                        "updated_at": "2020-11-02 09:16:03"
+                    },
+                    {
+                        "id": 82,
+                        "featureable_id": 1,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Keep a real time inventory of existing wardrobe and future purchases",
+                        "status": "active",
+                        "created_at": "2020-11-02 09:16:10",
+                        "updated_at": "2020-11-02 09:16:10"
+                    },
+                    {
+                        "id": 83,
+                        "featureable_id": 1,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Create and catalogue outfits",
+                        "status": "active",
+                        "created_at": "2020-11-02 09:16:18",
+                        "updated_at": "2020-11-02 09:16:18"
+                    },
+                    {
+                        "id": 84,
+                        "featureable_id": 1,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Get platform wide suggestions on existing wardrobe and new purchases",
+                        "status": "active",
+                        "created_at": "2020-11-02 09:16:26",
+                        "updated_at": "2020-11-02 09:16:26"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Level-2",
+                "description": "Level-2 plan",
+                "monthly_price": 9.99,
+                "yearly_price": 119.88,
+                "yearly_saving_percent": 17,
+                "benefits": null,
+                "trial_days": "0",
+                "interval": "month",
+                "interval_count": "1",
+                "slug": "level-2",
+                "match_profile_with_users": 1,
+                "customer_ratings": 1,
+                "data_analytics": 1,
+                "chat_support": 1,
+                "phone_support": 0,
+                "designated_account_manager": 0,
+                "number_of_closets": null,
+                "stylist_collaboration": 0,
+                "allowed_storage_items": 2000,
+                "private_closets": 1,
+                "paired_with_stylists": 0,
+                "styling_packages": 0,
+                "invitations": 0,
+                "status": "active",
+                "created_at": "2020-06-22 11:04:00",
+                "updated_at": "2021-10-19 03:54:50",
+                "annual_charge": 100,
+                "plan_features": [
+                    {
+                        "id": 85,
+                        "featureable_id": 2,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "A fun, new connected way to do all your favorite tasks in the fashion world",
+                        "status": "active",
+                        "created_at": "2020-11-02 09:36:04",
+                        "updated_at": "2020-11-02 09:36:04"
+                    },
+                    {
+                        "id": 86,
+                        "featureable_id": 2,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Create a closet inventory",
+                        "status": "active",
+                        "created_at": "2020-11-02 09:36:13",
+                        "updated_at": "2020-11-02 09:36:13"
+                    },
+                    {
+                        "id": 87,
+                        "featureable_id": 2,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Share your closets with other users",
+                        "status": "active",
+                        "created_at": "2020-11-02 09:36:25",
+                        "updated_at": "2020-11-02 09:36:25"
+                    },
+                    {
+                        "id": 88,
+                        "featureable_id": 2,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Show events throughout the country",
+                        "status": "active",
+                        "created_at": "2020-11-02 09:36:32",
+                        "updated_at": "2020-11-02 09:36:32"
+                    },
+                    {
+                        "id": 89,
+                        "featureable_id": 2,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Able to shop retailers, boutiques, and favorite influencers simultaneously",
+                        "status": "active",
+                        "created_at": "2020-11-02 09:36:41",
+                        "updated_at": "2020-11-02 09:36:41"
+                    },
+                    {
+                        "id": 90,
+                        "featureable_id": 2,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Keep a real time inventory of existing wardrobe and future purchases",
+                        "status": "active",
+                        "created_at": "2020-11-02 09:36:49",
+                        "updated_at": "2020-11-02 09:36:49"
+                    },
+                    {
+                        "id": 91,
+                        "featureable_id": 2,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Create and catalogue outfits",
+                        "status": "active",
+                        "created_at": "2020-11-02 09:36:56",
+                        "updated_at": "2020-11-02 09:36:56"
+                    },
+                    {
+                        "id": 92,
+                        "featureable_id": 2,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Get platform wide suggestions on existing wardrobe and new purchases",
+                        "status": "active",
+                        "created_at": "2020-11-02 09:37:03",
+                        "updated_at": "2020-11-02 09:37:03"
+                    },
+                    {
+                        "id": 93,
+                        "featureable_id": 2,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Privatize your closet and only share with select invitees",
+                        "status": "active",
+                        "created_at": "2020-11-02 09:37:10",
+                        "updated_at": "2020-11-02 09:37:10"
+                    },
+                    {
+                        "id": 94,
+                        "featureable_id": 2,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Able to store a larger closet database",
+                        "status": "active",
+                        "created_at": "2020-11-02 09:37:18",
+                        "updated_at": "2020-11-02 09:37:18"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Level-3",
+                "description": "Level-3 plan",
+                "monthly_price": 99,
+                "yearly_price": 1188,
+                "yearly_saving_percent": 20,
+                "benefits": null,
+                "trial_days": "0",
+                "interval": "month",
+                "interval_count": "1",
+                "slug": "level-3",
+                "match_profile_with_users": 1,
+                "customer_ratings": 1,
+                "data_analytics": 1,
+                "chat_support": 1,
+                "phone_support": 1,
+                "designated_account_manager": 0,
+                "number_of_closets": null,
+                "stylist_collaboration": 0,
+                "allowed_storage_items": 5000,
+                "private_closets": 1,
+                "paired_with_stylists": 0,
+                "styling_packages": 1,
+                "invitations": 0,
+                "status": "active",
+                "created_at": "2020-06-22 11:04:00",
+                "updated_at": "2021-10-18 11:54:25",
+                "annual_charge": 950,
+                "plan_features": [
+                    {
+                        "id": 95,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "A fun, new connected way to do all your favorite tasks in the fashion world",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:44:06",
+                        "updated_at": "2020-11-02 23:44:06"
+                    },
+                    {
+                        "id": 96,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Create a closet inventory",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:44:14",
+                        "updated_at": "2020-11-02 23:44:14"
+                    },
+                    {
+                        "id": 97,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Share your closets with other users",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:44:21",
+                        "updated_at": "2020-11-02 23:44:21"
+                    },
+                    {
+                        "id": 98,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Show events throughout the country",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:44:31",
+                        "updated_at": "2020-11-02 23:44:31"
+                    },
+                    {
+                        "id": 99,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Able to shop retailers, boutiques, and favorite influencers simultaneously",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:44:42",
+                        "updated_at": "2020-11-02 23:44:42"
+                    },
+                    {
+                        "id": 100,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Keep a real time inventory of existing wardrobe and future purchases",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:44:56",
+                        "updated_at": "2020-11-02 23:44:56"
+                    },
+                    {
+                        "id": 101,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Create and catalogue outfits",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:45:05",
+                        "updated_at": "2020-11-02 23:45:05"
+                    },
+                    {
+                        "id": 102,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Get platform wide suggestions on existing wardrobe and new purchases",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:45:16",
+                        "updated_at": "2020-11-02 23:45:16"
+                    },
+                    {
+                        "id": 103,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Privatize your closet and only share with select invitees",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:45:26",
+                        "updated_at": "2020-11-02 23:45:26"
+                    },
+                    {
+                        "id": 104,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Able to store a larger closet database",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:45:40",
+                        "updated_at": "2020-11-02 23:45:40"
+                    },
+                    {
+                        "id": 105,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Exclusive events, discounts, and promotions",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:45:55",
+                        "updated_at": "2020-11-02 23:45:55"
+                    },
+                    {
+                        "id": 106,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Seasonal shopping/styling collaborations with our personal shopper/influencers to help curate your closet and shopping needs",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:46:05",
+                        "updated_at": "2020-11-02 23:46:05"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Level-4",
+                "description": "Level-4 plan",
+                "monthly_price": 249,
+                "yearly_price": 2988,
+                "yearly_saving_percent": 23,
+                "benefits": null,
+                "trial_days": "0",
+                "interval": "month",
+                "interval_count": "1",
+                "slug": "level-4",
+                "match_profile_with_users": 1,
+                "customer_ratings": 1,
+                "data_analytics": 1,
+                "chat_support": 1,
+                "phone_support": 1,
+                "designated_account_manager": 1,
+                "number_of_closets": null,
+                "stylist_collaboration": 1,
+                "allowed_storage_items": 10000,
+                "private_closets": 1,
+                "paired_with_stylists": 1,
+                "styling_packages": 1,
+                "invitations": 1,
+                "status": "active",
+                "created_at": "2020-06-22 11:04:00",
+                "updated_at": "2021-10-18 11:54:28",
+                "annual_charge": 2300,
+                "plan_features": [
+                    {
+                        "id": 107,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Create a closet inventory",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:53:38",
+                        "updated_at": "2020-11-02 23:53:38"
+                    },
+                    {
+                        "id": 108,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Share your closets with other users",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:53:44",
+                        "updated_at": "2020-11-02 23:53:44"
+                    },
+                    {
+                        "id": 109,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Show events throughout the country",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:53:51",
+                        "updated_at": "2020-11-02 23:53:51"
+                    },
+                    {
+                        "id": 110,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Able to shop retailers, boutiques, and favorite influencers simultaneously",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:53:58",
+                        "updated_at": "2020-11-02 23:53:58"
+                    },
+                    {
+                        "id": 111,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Keep a real time inventory of existing wardrobe and future purchases",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:54:13",
+                        "updated_at": "2020-11-02 23:54:13"
+                    },
+                    {
+                        "id": 112,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Create and catalogue outfits",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:54:23",
+                        "updated_at": "2020-11-02 23:54:23"
+                    },
+                    {
+                        "id": 113,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Get platform wide suggestions on existing wardrobe and new purchases",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:54:31",
+                        "updated_at": "2020-11-02 23:54:31"
+                    },
+                    {
+                        "id": 114,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Privatize your closet and only share with select invitees",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:54:39",
+                        "updated_at": "2020-11-02 23:54:39"
+                    },
+                    {
+                        "id": 115,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Able to store a larger closet database",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:54:47",
+                        "updated_at": "2020-11-02 23:54:47"
+                    },
+                    {
+                        "id": 116,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Exclusive events, discounts, and promotions",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:54:55",
+                        "updated_at": "2020-11-02 23:54:55"
+                    },
+                    {
+                        "id": 117,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\CustomerPlan",
+                        "feature": "Monthly shopping/styling collaborations with our personal shopper/influencers to help curate your closet and shopping needs",
+                        "status": "active",
+                        "created_at": "2020-11-02 23:55:06",
+                        "updated_at": "2020-11-02 23:55:06"
+                    }
+                ]
+            }
+        ],
+        "business_plans": [
+            {
+                "id": 1,
+                "name": "Budding Star",
+                "description": "Aspiring influencers, bloggers, stylists, personal shoppers",
+                "slug": "budding-star",
+                "commission_percentage": 60,
+                "interval": "month",
+                "interval_count": 1,
+                "monthly_price": 29,
+                "number_of_users": 1,
+                "yearly_price": 348,
+                "annual_charge": 300,
+                "yearly_saving_percent": 14,
+                "trial_days": "30",
+                "benefits": "Able to monetize your base by selling shopping packages",
+                "allowed_sale_packages": 2,
+                "match_profile_with_users_interval": "month",
+                "match_profile_with_users_interval_count": 1,
+                "exclusive_affiliate_programs": 1,
+                "customer_ratings": 1,
+                "data_analytics": 0,
+                "chat_support": 1,
+                "phone_support": 0,
+                "designated_account_manager": 0,
+                "featured_on_cbm": null,
+                "weekly_picks_featured": 1,
+                "preferred_placement_search": 0,
+                "suggest_closets": 0,
+                "cbm_style_hours_interval": "month",
+                "cbm_style_hours_interval_count": 1,
+                "affiliate_marketing_help": 1,
+                "commission_on_affiliate": null,
+                "export_data": 0,
+                "subscription_report": 0,
+                "mrr_report": 0,
+                "create_events_for_sale": 1,
+                "create_live_store_events": 1,
+                "event_partneship": 0,
+                "created_benefits": null,
+                "status": "active",
+                "created_at": "2020-06-22 11:04:00",
+                "updated_at": "2021-10-19 03:55:40",
+                "plan_features": [
+                    {
+                        "id": 23,
+                        "featureable_id": 1,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Sell shopping packages and make commissions from packages",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:21:44",
+                        "updated_at": "2020-11-02 03:21:44"
+                    },
+                    {
+                        "id": 24,
+                        "featureable_id": 1,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Catalogue and keep a closet inventory",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:21:59",
+                        "updated_at": "2020-11-02 03:21:59"
+                    },
+                    {
+                        "id": 25,
+                        "featureable_id": 1,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Inspire other CASA BEAU MONDE users by sharing your closet inspirations",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:22:09",
+                        "updated_at": "2020-11-02 03:22:09"
+                    },
+                    {
+                        "id": 26,
+                        "featureable_id": 1,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Help other users breathe magic into their existing wardrobes",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:22:36",
+                        "updated_at": "2020-11-02 03:22:36"
+                    },
+                    {
+                        "id": 27,
+                        "featureable_id": 1,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Create new connections with new followers",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:22:44",
+                        "updated_at": "2020-11-02 03:22:44"
+                    },
+                    {
+                        "id": 28,
+                        "featureable_id": 1,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Build relationships and opportunities to collaborate with new brands, retailers and boutiques",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:22:53",
+                        "updated_at": "2020-11-02 03:22:53"
+                    },
+                    {
+                        "id": 29,
+                        "featureable_id": 1,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Paid partnerships and collaborations with CASA BEAU MONDE retail partners",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:23:01",
+                        "updated_at": "2020-11-02 03:23:01"
+                    },
+                    {
+                        "id": 30,
+                        "featureable_id": 1,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "60% commission split on all paid projects completed through CASA BEAU MONDE",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:23:09",
+                        "updated_at": "2020-11-02 03:23:09"
+                    },
+                    {
+                        "id": 31,
+                        "featureable_id": 1,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Earn up to $250 a month in commissions",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:23:17",
+                        "updated_at": "2020-11-02 03:23:17"
+                    },
+                    {
+                        "id": 32,
+                        "featureable_id": 1,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Chat support",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:23:26",
+                        "updated_at": "2020-11-02 03:23:26"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Rising Star",
+                "description": "Established influencers, bloggers, stylists, personal shoppers",
+                "slug": "rising-star",
+                "commission_percentage": 70,
+                "interval": "month",
+                "interval_count": 1,
+                "monthly_price": 99,
+                "number_of_users": 1,
+                "yearly_price": 1188,
+                "annual_charge": 1000,
+                "yearly_saving_percent": 16,
+                "trial_days": "30",
+                "benefits": "Able to monetize your base by selling shopping packages",
+                "allowed_sale_packages": 4,
+                "match_profile_with_users_interval": "month",
+                "match_profile_with_users_interval_count": 2,
+                "exclusive_affiliate_programs": 1,
+                "customer_ratings": 1,
+                "data_analytics": 1,
+                "chat_support": 1,
+                "phone_support": 1,
+                "designated_account_manager": 0,
+                "featured_on_cbm": "24 hour period monthly",
+                "weekly_picks_featured": 5,
+                "preferred_placement_search": 1,
+                "suggest_closets": 1,
+                "cbm_style_hours_interval": "week",
+                "cbm_style_hours_interval_count": 1,
+                "affiliate_marketing_help": 1,
+                "commission_on_affiliate": null,
+                "export_data": 1,
+                "subscription_report": 1,
+                "mrr_report": 1,
+                "create_events_for_sale": 1,
+                "create_live_store_events": 1,
+                "event_partneship": 0,
+                "created_benefits": null,
+                "status": "active",
+                "created_at": "2020-06-22 11:04:00",
+                "updated_at": "2021-10-19 03:55:37",
+                "plan_features": [
+                    {
+                        "id": 33,
+                        "featureable_id": 2,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Sell shopping packages and make commissions from packages",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:38:10",
+                        "updated_at": "2020-11-02 03:38:10"
+                    },
+                    {
+                        "id": 34,
+                        "featureable_id": 2,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Catalogue and keep a closet inventory",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:38:18",
+                        "updated_at": "2020-11-02 03:38:18"
+                    },
+                    {
+                        "id": 35,
+                        "featureable_id": 2,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Inspire other CASA BEAU MONDE users by sharing your closet inspirations",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:38:27",
+                        "updated_at": "2020-11-02 03:38:27"
+                    },
+                    {
+                        "id": 36,
+                        "featureable_id": 2,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Help other users breathe magic into their existing wardrobes",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:38:41",
+                        "updated_at": "2020-11-02 03:38:41"
+                    },
+                    {
+                        "id": 37,
+                        "featureable_id": 2,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Create connections with new followers",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:38:48",
+                        "updated_at": "2020-11-02 03:38:48"
+                    },
+                    {
+                        "id": 38,
+                        "featureable_id": 2,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Build relationships and opportunities to collaborate with new brands, retailers and boutiques",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:38:58",
+                        "updated_at": "2020-11-02 03:38:58"
+                    },
+                    {
+                        "id": 39,
+                        "featureable_id": 2,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Paid partnerships and collaborations with CASA BEAU MONDE retail partners",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:39:07",
+                        "updated_at": "2020-11-02 03:39:07"
+                    },
+                    {
+                        "id": 40,
+                        "featureable_id": 2,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "70% commission split on all paid projects completed through CASA BEAU MONDE",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:39:16",
+                        "updated_at": "2020-11-02 03:39:16"
+                    },
+                    {
+                        "id": 41,
+                        "featureable_id": 2,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Earn up to $1000 a month in commissions",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:39:23",
+                        "updated_at": "2020-11-02 03:39:23"
+                    },
+                    {
+                        "id": 42,
+                        "featureable_id": 2,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Account manager support once a week to help strategize business growth and monetization",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:39:33",
+                        "updated_at": "2020-11-02 03:39:33"
+                    },
+                    {
+                        "id": 43,
+                        "featureable_id": 2,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Data Analytics",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:39:43",
+                        "updated_at": "2020-11-02 03:39:43"
+                    },
+                    {
+                        "id": 44,
+                        "featureable_id": 2,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Chat support",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:39:56",
+                        "updated_at": "2020-11-02 03:39:56"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Twinkling Star",
+                "description": "Established influencers, bloggers, stylists, personal shoppers",
+                "slug": "twinkling-star",
+                "commission_percentage": 80,
+                "interval": "month",
+                "interval_count": 1,
+                "monthly_price": 249,
+                "number_of_users": 1,
+                "yearly_price": 2988,
+                "annual_charge": 2500,
+                "yearly_saving_percent": 16,
+                "trial_days": "30",
+                "benefits": "Able to monetize your base by selling shopping packages",
+                "allowed_sale_packages": 8,
+                "match_profile_with_users_interval": "week",
+                "match_profile_with_users_interval_count": 1,
+                "exclusive_affiliate_programs": 1,
+                "customer_ratings": 1,
+                "data_analytics": 1,
+                "chat_support": 1,
+                "phone_support": 1,
+                "designated_account_manager": 1,
+                "featured_on_cbm": "24 hour period monthly",
+                "weekly_picks_featured": 10,
+                "preferred_placement_search": 1,
+                "suggest_closets": 1,
+                "cbm_style_hours_interval": "day",
+                "cbm_style_hours_interval_count": 1,
+                "affiliate_marketing_help": 1,
+                "commission_on_affiliate": null,
+                "export_data": 1,
+                "subscription_report": 1,
+                "mrr_report": 1,
+                "create_events_for_sale": 1,
+                "create_live_store_events": 1,
+                "event_partneship": 0,
+                "created_benefits": null,
+                "status": "active",
+                "created_at": "2020-06-22 11:04:00",
+                "updated_at": "2021-10-19 03:55:33",
+                "plan_features": [
+                    {
+                        "id": 45,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Sell shopping packages and make commissions from packages",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:58:31",
+                        "updated_at": "2020-11-02 03:58:31"
+                    },
+                    {
+                        "id": 46,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Catalogue and keep a closet inventory",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:58:38",
+                        "updated_at": "2020-11-02 03:58:38"
+                    },
+                    {
+                        "id": 47,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Inspire other CASA BEAU MONDE users by sharing your closet inspirations",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:58:46",
+                        "updated_at": "2020-11-02 03:58:46"
+                    },
+                    {
+                        "id": 48,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Help other users breathe magic into their existing wardrobe",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:58:55",
+                        "updated_at": "2020-11-02 03:58:55"
+                    },
+                    {
+                        "id": 49,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Create connections with new followers",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:59:02",
+                        "updated_at": "2020-11-02 03:59:02"
+                    },
+                    {
+                        "id": 50,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Build relationships and opportunities to collaborate with new brands, retailers and boutiques",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:59:09",
+                        "updated_at": "2020-11-02 03:59:09"
+                    },
+                    {
+                        "id": 51,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Paid partnerships and collaborations with CASA BEAU MONDE retail partners",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:59:17",
+                        "updated_at": "2020-11-02 03:59:17"
+                    },
+                    {
+                        "id": 52,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "80% commission split on all paid projects completed through CASA BEAU MONDE",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:59:24",
+                        "updated_at": "2020-11-02 03:59:24"
+                    },
+                    {
+                        "id": 53,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Boutique and influencer event alignment to maximize earnings potential",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:59:31",
+                        "updated_at": "2020-11-02 03:59:31"
+                    },
+                    {
+                        "id": 54,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Customer matching for paying customer projects",
+                        "status": "active",
+                        "created_at": "2020-11-02 03:59:41",
+                        "updated_at": "2020-11-02 03:59:41"
+                    },
+                    {
+                        "id": 55,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Earn up to $5000 a month in commissions",
+                        "status": "active",
+                        "created_at": "2020-11-02 04:05:12",
+                        "updated_at": "2020-11-02 04:05:12"
+                    },
+                    {
+                        "id": 56,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Account manager support on demand to help strategize business growth and monetization",
+                        "status": "active",
+                        "created_at": "2020-11-02 04:05:25",
+                        "updated_at": "2020-11-02 04:05:25"
+                    },
+                    {
+                        "id": 57,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Data Analytics",
+                        "status": "active",
+                        "created_at": "2020-11-02 04:05:32",
+                        "updated_at": "2020-11-02 04:05:32"
+                    },
+                    {
+                        "id": 58,
+                        "featureable_id": 3,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Chat support",
+                        "status": "active",
+                        "created_at": "2020-11-02 04:05:39",
+                        "updated_at": "2020-11-02 04:05:39"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Shooting Star",
+                "description": "Established influencers, bloggers, stylists, personal shoppers",
+                "slug": "shooting-star",
+                "commission_percentage": 90,
+                "interval": "month",
+                "interval_count": 1,
+                "monthly_price": 499,
+                "number_of_users": 1,
+                "yearly_price": 5988,
+                "annual_charge": 4000,
+                "yearly_saving_percent": 33,
+                "trial_days": "30",
+                "benefits": "Able to increase shopping base through our influencer programs",
+                "allowed_sale_packages": 16,
+                "match_profile_with_users_interval": "day",
+                "match_profile_with_users_interval_count": 1,
+                "exclusive_affiliate_programs": 1,
+                "customer_ratings": 1,
+                "data_analytics": 1,
+                "chat_support": 1,
+                "phone_support": 1,
+                "designated_account_manager": 1,
+                "featured_on_cbm": "Weekly each month",
+                "weekly_picks_featured": 50,
+                "preferred_placement_search": 1,
+                "suggest_closets": 1,
+                "cbm_style_hours_interval": "day",
+                "cbm_style_hours_interval_count": 1,
+                "affiliate_marketing_help": 1,
+                "commission_on_affiliate": null,
+                "export_data": 1,
+                "subscription_report": 1,
+                "mrr_report": 1,
+                "create_events_for_sale": 1,
+                "create_live_store_events": 1,
+                "event_partneship": 0,
+                "created_benefits": null,
+                "status": "active",
+                "created_at": "2020-06-22 11:04:00",
+                "updated_at": "2021-10-19 03:55:31",
+                "plan_features": [
+                    {
+                        "id": 59,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Sell shopping packages and make commissions from packages",
+                        "status": "active",
+                        "created_at": "2020-11-02 05:10:37",
+                        "updated_at": "2020-11-02 05:10:37"
+                    },
+                    {
+                        "id": 60,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Catalogue and keep a closet inventory",
+                        "status": "active",
+                        "created_at": "2020-11-02 05:10:48",
+                        "updated_at": "2020-11-02 05:10:48"
+                    },
+                    {
+                        "id": 61,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Inspire other CASA BEAU MONDE users by sharing your closet inspirations",
+                        "status": "active",
+                        "created_at": "2020-11-02 05:10:54",
+                        "updated_at": "2020-11-02 05:10:54"
+                    },
+                    {
+                        "id": 62,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Help other users breathe magic into their existing wardrobe",
+                        "status": "active",
+                        "created_at": "2020-11-02 05:11:01",
+                        "updated_at": "2020-11-02 05:11:01"
+                    },
+                    {
+                        "id": 63,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Create connections with new followers",
+                        "status": "active",
+                        "created_at": "2020-11-02 05:11:08",
+                        "updated_at": "2020-11-02 05:11:08"
+                    },
+                    {
+                        "id": 64,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Build relationships and opportunities to collaborate with new brands, retailers and boutiques",
+                        "status": "active",
+                        "created_at": "2020-11-02 05:11:17",
+                        "updated_at": "2020-11-02 05:11:17"
+                    },
+                    {
+                        "id": 65,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Paid partnerships and collaborations with CASA BEAU MONDE retail partners",
+                        "status": "active",
+                        "created_at": "2020-11-02 05:11:27",
+                        "updated_at": "2020-11-02 05:11:27"
+                    },
+                    {
+                        "id": 66,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "90% commission split on all paid projects completed through CASA BEAU MONDE",
+                        "status": "active",
+                        "created_at": "2020-11-02 05:11:35",
+                        "updated_at": "2020-11-02 05:11:35"
+                    },
+                    {
+                        "id": 67,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Boutique and influencer event alignment to maximize earnings potential",
+                        "status": "active",
+                        "created_at": "2020-11-02 05:12:06",
+                        "updated_at": "2020-11-02 05:12:06"
+                    },
+                    {
+                        "id": 68,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Priority matching for paying customer projects",
+                        "status": "active",
+                        "created_at": "2020-11-02 05:12:12",
+                        "updated_at": "2020-11-02 05:12:12"
+                    },
+                    {
+                        "id": 69,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Invitations to exclusive CASA BEAU MONDE collaborations for top influencers",
+                        "status": "active",
+                        "created_at": "2020-11-02 05:12:19",
+                        "updated_at": "2020-11-02 05:12:19"
+                    },
+                    {
+                        "id": 70,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Earn up to $5000 a month in commissions",
+                        "status": "active",
+                        "created_at": "2020-11-02 05:12:25",
+                        "updated_at": "2020-11-02 05:12:25"
+                    },
+                    {
+                        "id": 71,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Account manager support on demand to help strategize business growth and monetization",
+                        "status": "active",
+                        "created_at": "2020-11-02 05:12:32",
+                        "updated_at": "2020-11-02 05:12:32"
+                    },
+                    {
+                        "id": 72,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Data Analytics",
+                        "status": "active",
+                        "created_at": "2020-11-02 05:12:39",
+                        "updated_at": "2020-11-02 05:12:39"
+                    },
+                    {
+                        "id": 73,
+                        "featureable_id": 4,
+                        "featureable_type": "App\\Models\\BusinessPlan",
+                        "feature": "Chat support",
+                        "status": "active",
+                        "created_at": "2020-11-02 05:12:45",
+                        "updated_at": "2020-11-02 05:12:45"
+                    }
+                ]
+            }
+        ],
+        "business_roles": [
+            {
+                "id": 1,
+                "name": "admin",
+                "guard_name": "web",
+                "url": "/admin/dashboard",
+                "created_at": "2020-06-22 11:03:58",
+                "updated_at": "2020-06-22 11:03:58"
+            },
+            {
+                "id": 4,
+                "name": "retailer",
+                "guard_name": "web",
+                "url": "/users/profile",
+                "created_at": "2020-06-22 11:03:58",
+                "updated_at": "2020-06-22 11:03:58"
+            },
+            {
+                "id": 5,
+                "name": "influencer",
+                "guard_name": "web",
+                "url": "/users/profile",
+                "created_at": "2020-06-22 11:03:58",
+                "updated_at": "2020-06-22 11:03:58"
+            }
+        ],
+        "customer_roles": [
+            {
+                "id": 1,
+                "name": "admin",
+                "guard_name": "web",
+                "url": "/admin/dashboard",
+                "created_at": "2020-06-22 11:03:58",
+                "updated_at": "2020-06-22 11:03:58"
+            },
+            {
+                "id": 2,
+                "name": "customer",
+                "guard_name": "web",
+                "url": "/users/profile",
+                "created_at": "2020-06-22 11:03:58",
+                "updated_at": "2020-06-22 11:03:58"
+            }
+        ]
+    }
+}
