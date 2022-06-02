@@ -1,0 +1,27 @@
+{
+    "code": "200",
+    "data": {
+        "sizes": [
+            {
+                "id": 1,
+                "category_id": 12,
+                "name": "6,S"
+            },
+            {
+                "id": 2,
+                "category_id": 12,
+                "name": "14W,1X,18,XXL"
+            },
+            {
+                "id": 3,
+                "category_id": 12,
+                "name": "22W,3X,24"
+            },
+            {
+                "id": 4,
+                "category_id": 12,
+                "name": "24W,3X"
+            }
+        ]
+    }
+}
