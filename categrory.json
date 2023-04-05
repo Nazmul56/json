@@ -3,9 +3,9 @@
   "description": "Fetch remote data from Adhithi's blog",
   "articles": [
     { "id": 1, "title": "Soft chairs", "description": "A", "imageUrl": "https://raw.githubusercontent.com/Nazmul56/json/master/furniture_1.png" },
-    { "id": 2, "title": "Soft chairs", "description": "A", "imageUrl": "https://raw.githubusercontent.com/Nazmul56/json/master/furniture_2.png" },
-    { "id": 3, "title": "Soft chairs", "description": "A", "imageUrl": "https://raw.githubusercontent.com/Nazmul56/json/master/furniture_3.png"},
-    { "id": 4, "title": "Soft chairs", "description": "A", "imageUrl": "https://raw.githubusercontent.com/Nazmul56/json/master/furniture_3.png"}
+    { "id": 2, "title": "Soft chairs 1", "description": "B", "imageUrl": "https://raw.githubusercontent.com/Nazmul56/json/master/furniture_2.png" },
+    { "id": 3, "title": "Soft chairs 2", "description": "C", "imageUrl": "https://raw.githubusercontent.com/Nazmul56/json/master/furniture_3.png"},
+    { "id": 4, "title": "Soft chairs 3", "description": "D", "imageUrl": "https://raw.githubusercontent.com/Nazmul56/json/master/furniture_3.png"}
   ]
 }
  
